@@ -1,0 +1,39 @@
+body{ 
+	font-size:14px;
+	font-family:Arial;
+}
+
+div.wrapper{ 
+	width:800px;
+	margin: auto;
+}
+
+header{ 
+	text-align:center;
+	margin-right:20px;
+}
+
+article{ 
+	display:inline-block;
+	vertical-align: top;
+	text-align:justify;
+	margin:0px 10px;
+	width: 370px;
+	float:top;
+}
+
+ul{ 
+	list-style-type: none;
+	text-align:center;
+}
+
+li{ 
+	display: inline-block;
+	background:yellow;
+	padding:10px;
+}
+
+li a:hover{ 
+	display: inline-block;
+	background:red;
+}
